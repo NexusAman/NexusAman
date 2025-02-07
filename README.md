@@ -9,7 +9,8 @@
 - ⚡ Fun fact **I think I'm a Genius 😅**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left 
+">
 <a href="https://x.com/_NexusAman_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NexusAman" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/NexusAman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/NexusAman" height="30" width="40" /></a>
 <a href="https://instagram.com/_nexusaman_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_nexusaman_/" height="30" width="40" /></a>
