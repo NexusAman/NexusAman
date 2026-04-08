@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NexusAman&show_icons=true&locale=en" alt="NexusAman" /></p>
 
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NexusAman&" alt="NexusAman" />.</p>
+<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NexusAman&" alt="NexusAman" /></p>
